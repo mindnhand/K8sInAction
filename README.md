@@ -1,2 +1,2 @@
 # K8sInAction
-for Kubernetes in Action
+for the book 《Kubernetes in Action》
